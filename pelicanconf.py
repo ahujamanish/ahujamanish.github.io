@@ -18,10 +18,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('linkedIn', 'https://www.linkedin.com/profile/view?id=51979793&trk=nav_responsive_tab_profile'),
+         ('facebook', 'https://www.facebook.com/its.manish.ahuja'))
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
